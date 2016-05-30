@@ -1,0 +1,6 @@
+[package]
+name = "267E"
+version = "0.1.0"
+authors = ["Matt Mason <mamaso@microsoft.com>"]
+
+[dependencies]
