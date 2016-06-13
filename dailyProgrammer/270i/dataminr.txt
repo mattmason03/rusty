@@ -1,0 +1,7 @@
+Dataminr transforms real-time data from Twitter and other public sources into actionable news for companies in finance, the public sector, news and corporate security.
+
+The New York City-based company was started in 2009 by Ted Bailey and two Yale roommates and uses powerful, proprietary algorithms to sift through tweets to identify real-time news and events. Because the company's algorithms are so adept at recognizing patterns, it can determine instantly which information is real and which is not. For instance, Dataminr for Finance is used by hedge funds and investment banks to act on market information and gain context from nontraditional sources.
+
+In today's world, understanding and leveraging big data is a top-of-mind challenge for business and government alike. Dataminr has created a technology and a process that transforms large unstructured public data sets, specifically Twitter, into real time, actionable information.
+
+Most recently, the company launched a product for corporate security that enables companies to detect emerging threats and crisis anywhere in the world so that they can take action to protect employees and assets. The company has raised $180 million and is backed by Fidelity, Venrock and Institutional Venture Partners. 

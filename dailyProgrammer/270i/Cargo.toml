@@ -1,0 +1,7 @@
+[package]
+name = "270i"
+version = "0.1.0"
+authors = ["Matt Mason <mamaso@microsoft.com>"]
+
+[dependencies]
+rand = "0.3"
